@@ -7,3 +7,5 @@
 在master上又修改了并commit，但是修改前没有合并feature1分支，会有冲突
 又创建了一个分支feature1,测试分支合并冲突
 解决冲突，去掉标记分隔符
+储藏工作现场git stash
+未提交
